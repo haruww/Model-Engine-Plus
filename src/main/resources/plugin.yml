@@ -1,0 +1,7 @@
+name: MegPlus
+version: '${project.version}'
+main: me.haru301.megplus.MegPlus
+api-version: 1.18
+authors: [ Haru301 ]
+description: Model Engine Addon Plugin
+depend: [ModelEngine, CommandAPI]
