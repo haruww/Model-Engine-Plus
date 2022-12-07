@@ -56,6 +56,8 @@ public class EventHandle implements Listener
         if(animationHandler == null)
             return;
 
+        //test
+
         animationHandler.playAnimation("attack", 0, 0, 1, true);
     }
 }
